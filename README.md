@@ -82,9 +82,4 @@ For production deployment:
 
 ## Environment Variables
 
-\`\`\`env
-NEXT_PUBLIC_WS_URL=ws://localhost:3001
-DATABASE_URL=your_database_url
-STRIPE_SECRET_KEY=your_stripe_key
-GOOGLE_MAPS_API_KEY=your_maps_key
-\`\`\`
+
