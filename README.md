@@ -73,7 +73,7 @@ A comprehensive delivery platform connecting customers with delivery agents for 
 
 For production deployment:
 
-1. Set up a real database MongoDB)
+1. Set up a real database (MongoDB)
 2. Configure WebSocket server
 3. Integrate payment processing
 4. Add map services (Google Maps)
