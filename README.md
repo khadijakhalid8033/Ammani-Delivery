@@ -31,9 +31,9 @@ A comprehensive delivery platform connecting customers with delivery agents for 
 - **UI Components**: shadcn/ui
 - **Real-time**: WebSocket connections
 - **API**: Next.js API routes
-- **Database**: Ready for integration with PostgreSQL/MongoDB
-- **Maps**: Ready for Google Maps/Mapbox integration
-- **Payments**: Ready for Stripe/PayPal integration
+- **Database**: Ready for integration with MongoDB
+- **Maps**: Ready for Google Maps integration
+- **Payments**: Ready for PayPal integration
 
 ## Real-time Features
 
@@ -73,10 +73,10 @@ A comprehensive delivery platform connecting customers with delivery agents for 
 
 For production deployment:
 
-1. Set up a real database (PostgreSQL/MongoDB)
+1. Set up a real database MongoDB)
 2. Configure WebSocket server
 3. Integrate payment processing
-4. Add map services (Google Maps/Mapbox)
+4. Add map services (Google Maps)
 5. Set up push notifications
 6. Configure environment variables
 
@@ -88,7 +88,3 @@ DATABASE_URL=your_database_url
 STRIPE_SECRET_KEY=your_stripe_key
 GOOGLE_MAPS_API_KEY=your_maps_key
 \`\`\`
-
-## License
-
-MIT License - see LICENSE file for details.
